@@ -1,0 +1,14 @@
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\bin\Debug\net8.0\Practics-UF1.exe
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\bin\Debug\net8.0\Practics-UF1.deps.json
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\bin\Debug\net8.0\Practics-UF1.runtimeconfig.json
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\bin\Debug\net8.0\Practics-UF1.dll
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\bin\Debug\net8.0\Practics-UF1.pdb
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\obj\Debug\net8.0\Practics-UF1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\obj\Debug\net8.0\Practics-UF1.AssemblyInfoInputs.cache
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\obj\Debug\net8.0\Practics-UF1.AssemblyInfo.cs
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\obj\Debug\net8.0\Practics-UF1.csproj.CoreCompileInputs.cache
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\obj\Debug\net8.0\Practics-UF1.dll
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\obj\Debug\net8.0\refint\Practics-UF1.dll
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\obj\Debug\net8.0\Practics-UF1.pdb
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\obj\Debug\net8.0\Practics-UF1.genruntimeconfig.cache
+C:\Users\anass\OneDrive\Desktop\Practica entorno\Practics-UF1\obj\Debug\net8.0\ref\Practics-UF1.dll
